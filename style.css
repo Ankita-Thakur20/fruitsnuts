@@ -186,6 +186,7 @@
     background-color:rgb(238,238,238) ;
     border-top:1px solid rgb(204, 203, 203);
     font-size:1.2em;
+    margin-bottom:80px;
     padding:20px;
     display:flex;
     justify-content:end;
@@ -288,6 +289,7 @@
     }
     .footer{
         font-size:1em;
+        margin:0;
     }
 
 }
